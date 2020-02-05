@@ -13,3 +13,5 @@ pytnon -m pip install -r requirement.txt
 
 DNS:
 create an account on noip.com, configure the DUC and change URL_DNS in main.py
+
+Start server with: sudo sh startServer.sh
